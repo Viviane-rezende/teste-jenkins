@@ -13,6 +13,7 @@ const Header = () => {
         <p>Executando Pipeline a cada 5 minutos</p>
         <p>Executando Pipeline a cada 5 minutos e fazendo commit a cada alteração</p>
         <p>Executando Pipeline a cada 5 minutos e fazendo commit/push a cada alteração</p>
+        <p>Commit e push só são realizados quando uma alteração é identificada</p>
     </header>
   )
 }
