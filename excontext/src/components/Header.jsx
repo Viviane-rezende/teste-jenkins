@@ -9,7 +9,7 @@ const Header = () => {
         color: theme==='light'?'#000':'#fff',
         padding: '10px'
     }}>
-        <h1>Meu App em Context API</h1>
+        <h1>Meu App em Context API / Pipeline com Jenkins</h1>
     </header>
   )
 }
