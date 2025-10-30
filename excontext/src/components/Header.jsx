@@ -10,6 +10,7 @@ const Header = () => {
         padding: '10px'
     }}>
         <h1>Meu App em Context API / Pipeline com Jenkins</h1>
+        <p>Executando Pipeline a cada 5 minutos</p>
     </header>
   )
 }
