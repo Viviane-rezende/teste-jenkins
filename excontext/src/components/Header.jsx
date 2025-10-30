@@ -12,7 +12,7 @@ const Header = () => {
 
       
         <h1>Meu App em Context API / Pipeline com Jenkins</h1> 
-        <p>Executando Pipeline a cada 5 minutos</p>
+        <h2>Executando Pipeline a cada 5 minutos</h2>
         <p>Executando Pipeline a cada 5 minutos e fazendo commit a cada alteração</p>
         <p>Executando Pipeline a cada 5 minutos e fazendo commit/push a cada alteração</p>
         <p>Commit e push apenas são realizados quando uma alteração é identificada</p>
